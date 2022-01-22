@@ -9,5 +9,11 @@
 </p>
 <br>
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzahmurrar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Hamzah-pw" 
+    bg_color=#808080/></p>
+<br>
+
 ![Hamzah's Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamzahmurrar&custom_title=Hamzah%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
