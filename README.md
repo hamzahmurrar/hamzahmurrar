@@ -9,5 +9,5 @@
 </p>
 <br>
 
-[![Hamzah Murrar Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamzahmurrar&custom_title=Hamzah%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Hamzah's Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamzahmurrar&custom_title=Hamzah%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
